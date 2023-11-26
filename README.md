@@ -1,6 +1,6 @@
 # innertao.inneriai
 Welcome to InnerTao at Inner I AI our Bittensor Validator - Scaling Decentralized Intelligence Together
-
+[![image](https://i.arxius.io/1d5bce91.png)](http://innerinetwork.hns.to/)
 Delegate with us
 Name: InnerTao
 url: [innertao.inneriai/](http://innertao.inneriai.hns.to/)
