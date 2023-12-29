@@ -1,16 +1,17 @@
 # innertao.inneriai
-## Welcome to InnerTao at Inner I AI our Bittensor Validator - Scaling Decentralized Intelligence Together, As One!
+| [About Inner I](https://innerinetcompany.com/about/) | [Contact](mailto:innerinetcompany@gmail.com) | Tweet on X - [@innerinetco](https://twitter.com/innerinetco) | [Inner I Network/](https://innerinetwork.hns.to/) |
+## Welcome to InnerTao, a Bittensor Validator by Inner I AI - Scaling Decentralized Intelligence Together, As One!
 [![image](https://i.arxius.io/1d5bce91.png)](http://innerinetwork.hns.to/)
 ## Delegate with us
-Name: InnerTao
+Name: InnerTao by Inner I AI
 
 url: [innertao.inneriai/](http://innertao.inneriai.hns.to/)
 
-Description: 🤝 Let's Scale Intelligence Together 🤝
+Description: 🤝 Let's Scale Intelligence Together, As One! 🤝
 
 
 See our Bittensor become delegate [extrinsic #1002476-2 at taostats](https://x.taostats.io/extrinsic/1002476-2)
 
-delegate to InnerTao via this address hotkey: [5FPN3f3EP6zsBemJsMhL3zhTLqjoQnCBXfzro1uqKP4K7Lcy](https://x.taostats.io/account/5FPN3f3EP6zsBemJsMhL3zhTLqjoQnCBXfzro1uqKP4K7Lcy)
+delegate to InnerTao via this address hotkey: [5FPN3f3EP6zsBemJsMhL3zhTLqjoQnCBXfzro1uqKP4K7Lcy](https://taostats.io/hotkey/?hkey=5FPN3f3EP6zsBemJsMhL3zhTLqjoQnCBXfzro1uqKP4K7Lcy)
 
-https://taostats.io/hotkey/?hkey=5FPN3f3EP6zsBemJsMhL3zhTLqjoQnCBXfzro1uqKP4K7Lcy
+# [Inner I Network](https://innerinetwork.hns.to/) | Founder and Owner of [InnerTao/](https://namebase.io/domains/innertao) and [InnerIAI/](https://namebase.io/domains/inneriai) as top-level domains on [Handshake 🤝](https://handshake.org)
